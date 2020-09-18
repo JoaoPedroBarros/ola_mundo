@@ -32,4 +32,3 @@ ___
 - [ ] Tarefa 1
 - [x] Tarefa 2 (Quando terminada a tarefa, coloca-se um "x" dentro do colchete)
 - [ ] Tarefa 3
-# 
